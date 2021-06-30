@@ -1,0 +1,54 @@
+body {
+	background-color: #26ffd0;
+}
+#heading
+{
+	padding: 20px;
+	text-align:center;
+}
+#heading span
+{
+	font-size: 50px;
+	text-decoration: underline overline;
+}
+
+.dishes
+{
+	list-style-type:upper-roman;
+    margin-left: 70px;	
+	padding: 20px;
+	font-family: 'Times New Roman';
+}
+article
+{
+	text-align: center;
+	background-color: lightcoral;
+	font-size: 20px;
+}
+article span
+{
+	color:navajowhite;
+	font-style: normal;
+	font-family: 'Roboto';
+	
+}
+
+#para 
+{
+	color:black;
+	font-style: normal;
+	text-decoration: underline;
+}
+
+.recipe
+{
+	padding:20px;
+	margin-left:50px;
+	margin-bottom:20px;
+	
+}
+	
+.first
+{
+	color:black;
+}
